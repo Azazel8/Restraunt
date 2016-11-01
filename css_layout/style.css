@@ -2,7 +2,7 @@
 
 
 body{
-  
+
 }
 h1{
   font-family: 'Comic Sans', cursive;
@@ -15,7 +15,7 @@ p{
   font-size: 1.5em;
 }
 
-#nav{
+/*#nav{
   border:1px solid black;
   margin-right:auto;
   margin-left: 70px;
@@ -28,7 +28,7 @@ p{
   text-align: center;
   max-width: 200px;
 
-}
+}*/
 
 .button{
   padding:10px;
