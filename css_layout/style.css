@@ -9,10 +9,18 @@ h1{
   font-size: 60px;
   text-align: center;
 }
+h3{
+  text-align: center;
+}
 
 p{
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1.5em;
+}
+
+.box{
+  text-align: center;
+  border-style: hidden;
 }
 
 /*#nav{
@@ -37,6 +45,7 @@ p{
   border-style:solid;
   border-color: black
   text-decoration: none;
+  text-align: center;
 
 }
 .button:hover{
