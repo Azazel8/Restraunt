@@ -1,16 +1,22 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 
 body{
-
+  background-color: #807b7b;
+  padding: 50px;
 }
+
 h1{
-  font-family: 'Comic Sans', cursive;
+  font-family: 'Pacifico', cursive;
   font-size: 60px;
   text-align: center;
 }
+
 h3{
   text-align: center;
+}
+
+h2{
+  font-size:30px;
 }
 
 p{
@@ -41,14 +47,23 @@ p{
 .button{
   padding:10px;
   color: black;
-  background-color: orange
-  border-style:solid;
-  border-color: black
-  text-decoration: none;
+  background-color: orange;
+  border-color: orange;
+  border-right-style: dotted;
+  border-style: ridge;
+  border-width: 3px;
   text-align: center;
+  border-top-right-radius: 45px;
+  border-bottom-left-radius: 45px;
+  margin-bottom: 30px;
 
 }
+
 .button:hover{
   background-color: green;
+  border-style: ridge;
+  border-right-style: dotted;
+  color: orange;
+  border-color: lime;
   color: black;
 }
